@@ -4,6 +4,7 @@
 `HTML` `CSS` `JS` `React` `Redux`
 
 SPA со списком карточек с возможностью удалять их фильтровать выбранные. Генерируются на основе Github API
+
 ## Aviasales
 
 [Published](https://legionaire13-test-aviasales.netlify.app/) | [Github](https://github.com/Legionaire13/test-aviasales)
@@ -13,7 +14,7 @@ SPA со списком карточек с возможностью удаля�
 
 ## Таблица с поиском
 
-[Published](https://github.com/Legionaire13/test-crazy-panda-1) | [Github](http://legionaire13.github.io/test-crazy-panda-1)
+[Published](http://legionaire13.github.io/test-crazy-panda-1) | [Github](https://github.com/Legionaire13/test-crazy-panda-1)
 `JS` `React` `Ant Design UI Kit`
 
 Компонент рендерит данные с мока в виде таблицы и позволяет фильтровать их. Реализовано на Ant Design UI Kit
